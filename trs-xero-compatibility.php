@@ -16,7 +16,7 @@
  * Plugin Name:       TRS Xero Compatibility
  * Plugin URI:        https://www.theritesites.com/plugins/xero-compatibility
  * Description:       Having issues with your xero connection being interrupted? Find which orders might not be synced and resend them!
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            TheRiteSites
  * Author URI:        https://www.theritesites.com
  * License:           GPL-2.0+
@@ -33,7 +33,7 @@ if ( ! defined( 'WPINC' ) ) {
 /**
  * Current plugin version.
  */
-define( 'TRS_XC_VERSION', '1.0.0' );
+define( 'TRS_XC_VERSION', '1.0.1' );
 
 define( 'TRS_XC_UPDATER_URL', 'https://www.theritesites.com' );
 
